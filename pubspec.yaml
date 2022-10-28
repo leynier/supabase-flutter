@@ -15,7 +15,8 @@ dependencies:
   hive: ^2.2.1
   hive_flutter: ^1.1.0
   http: ^0.13.4
-  supabase: ^1.0.0
+  supabase:
+    git: https://github.com/leynier/supabase-dart
   url_launcher: ^6.1.2
 
 dev_dependencies:
